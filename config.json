@@ -1,0 +1,16 @@
+{
+  "token": "MTIyNTQ5NzI0NzI0MDgxODgxOA.Glx0PJ.WGG5mhI9k3ajOHPjGdWwKEDAhk_xACHeitsmnE",
+    "mongoURI": "mongodb+srv://testing:2rL5l9ozLsRrHlc1@testing.tgayv8e.mongodb.net/",
+  "prefix": ".",
+  "ownerid": "1167768365746618379",
+  "buylogChannelId": "1225492952957059095", 
+  "stockChannelId": "1225492952801874114",
+  "yourBotId": "1225497247240818818",
+"desiredChannelId": "1225492952957059096",
+"specificUserId": "https://discord.com/api/webhooks/1225499644889403433/LKGU4KaYS9Q8O93AGRuQoY4zRxuaNUIOvi6hoQ0uCh127CJxpQoTzIH6xrHNZ2Bf-MjB",
+  "imageURL": "",
+  "wlEmoji": "",
+  "emoji1": "",
+  "emoji2": "",
+  "emoji3": ""
+}
